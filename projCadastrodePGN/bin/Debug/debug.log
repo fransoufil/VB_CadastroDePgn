@@ -1,0 +1,7 @@
+[1024/161607.470:ERROR:process_info.cc(350)] VirtualQueryEx: Acesso negado. (0x5)
+[1024/161607.471:ERROR:process_info.cc(571)] ReadMemoryInfo failed
+[1024/161607.472:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef1071988 of 12 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[1024/161607.472:WARNING:process_snapshot_win.cc(72)] ReadMemory ExceptionInformation failed
+[1024/161607.472:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[1024/161607.472:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentou-se acessar um processo de saída.  (0xc000010a)
+[1103/192837.923:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
